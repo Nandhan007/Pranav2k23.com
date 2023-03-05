@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Anurati';
+    src: url('Anurati-Regular.otf') format('opentype');
+  }
+body{
+    background-color: black;
+}
+h1{
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-family: 'Anurati', sans-serif;
+    font-size: 70px;
+    color: white;
+    margin: 20px auto;
+}
+.container-fluid{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-decoration: none;
+    text-shadow: 25cm;
+}
